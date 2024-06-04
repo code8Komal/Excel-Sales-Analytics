@@ -19,8 +19,8 @@ Determine effective customer discounts, facilitate consumer negotiations, and pi
 ### Finance Report:
 
 **Objective:**
-1. Develop Profit and Loss (P&L) reports by [Fiscal Year]().
-2. Create Profit and Loss (P&L) reports segmented by [Markets]().
+1. Develop Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/code8Komal/Excel-Sales-Analytics/blob/main/Finance%20report.pdf).
+2. Create Profit and Loss (P&L) reports segmented by [Markets].
 
 **Purpose:**
 Evaluate financial performance, aid decision-making, and facilitate stakeholder communication.
